@@ -1,5 +1,5 @@
-# LetsGoShortcut
-a shortcut to automate your driving experience!
+# Let's Go
+A shortcut to automate your driving experience!
 
 https://routinehub.co/shortcut/3859
 
